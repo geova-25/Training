@@ -1,0 +1,3 @@
+clear
+clear
+g++ Tree.h Tree.cpp BSTree.h BSTree.cpp
